@@ -144,7 +144,7 @@
     "express": "^4.15.4",
     "file-loader": "^2.0.0",
     "file-saver": "^1.3.3",
-    "flow-bin": "^0.81.0",
+    "flow-bin": "^0.82.0",
     "flow-copy-source": "^2.0.0",
     "fs-extra": "^7.0.0",
     "husky": "^1.0.0",
